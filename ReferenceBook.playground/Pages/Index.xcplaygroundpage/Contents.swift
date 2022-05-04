@@ -17,4 +17,17 @@ This is the index of everything available until now
  * [Example one](Example_1)
  * [Example two](Example_2)
  
+ 
+ Planned content:
+ 
+ * Ranges
+ * Protocols
+ * Spritekit
+ * SceneKit
+ * Observer
+ * Encapsulation
+ * UIKit
+ * SwiftUI
+ * 
+ 
  */
